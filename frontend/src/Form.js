@@ -1,5 +1,5 @@
 const SERVERLESS_FN_URL =
-  "https://workers-airtable-form.hrynkoiryna.workers.dev";
+  "https://workers-airtable-form.hrynkoiryna.workers.dev/submit";
 
 export default () => (
   <form
